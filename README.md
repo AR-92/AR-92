@@ -1,39 +1,32 @@
-# Hello, I'm Ahmed Rana 👋
+# Ahmed Rana - Software Engineer & UI/UX Designer
 
-I'm a **self-taught full stack web developer**, **n8n automation engineer**, and **freelance software engineer** based in Pakistan. Alongside building **elegant, intuitive interfaces** and delivering **clean, high-quality code**, I specialize in **workflow automation with n8n**—designing reliable, scalable automations that connect APIs, databases, and cloud services to save time and unlock efficiency.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-n8n/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AR-92)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:electro.electra@gmail.com)
 
-### 👨‍💻 What I Do:
+I'm a freelance software engineer and UI/UX designer specializing in HTML/CSS, JavaScript, HTMX, and TailwindCSS. Open source contributor, passionate about creating efficient, user-friendly solutions.
 
-* **n8n Automation:** I design and manage **custom n8n workflows** that integrate CRMs, APIs, and SaaS tools. From API orchestration to self-hosted Docker deployments, I build **automation systems that scale**.
-* **Full Stack Development:** Expertise in **front-end** and **back-end** development, ensuring seamless user experiences with solid, scalable architecture.
-* **UI/UX Design:** Passionate about creating **user-friendly, aesthetically pleasing interfaces** that balance form and function.
-* **Code Quality:** Advocate of **clean code, maintainability, and best practices** in every project.
-* **Open Source:** Active **open-source maintainer and contributor**, collaborating with the community and sharing knowledge.
+## 🛠️ Skills and Technologies
 
-### 🚀 My Journey:
+- Node.js (Bash)
+- HTML/HTMX, Hyperscript, and Tailwind CSS
+- n8n automation (CRM/API/SaaS tools)
+- Web Development (Frontend/Backend)
+- Design Systems (Figures, Grids)
+- Responsive Web Design
 
-From a **self-taught developer** to leading automation and development projects, I’ve built solutions that bridge **workflow automation (n8n, Zapier, Make)** with **full-stack applications**. This journey has taught me the importance of **problem-solving, continuous learning**, and leveraging automation to empower businesses and creators alike.
+## 🚀 Core Projects
 
-### 💼 Freelance Work:
+Here are some of my key open-source projects that demonstrate my expertise and skills:
 
-Currently available for freelance and contract opportunities. If you’re looking to **optimize processes with n8n** or build a **web application from scratch**, I’d love to collaborate. Reach out via **[email](mailto:electro.electra@gmail.com)**.
+- [conductor](https://github.com/AR-92/conductor) - A command-line tool for automating complex workflows with composable steps
+- [mark](https://github.com/AR-92/mark) - An AI prompt templating tool for generating drafts for different tasks
+- [UI](https://github.com/AR-92/UI) - A minimalist, open-source UI component library
+- [FlowAi](https://github.com/AR-92/FlowAi) - A web-based node editor for creating AI workflows
+- [whk](https://github.com/AR-92/whk) - A command-line tool for managing webhooks
 
-### 💬 Let’s Connect:
+## 🤝 Connect with Me
 
-* **Ask Me Anything:** I love helping others—whether it’s about automation, development, or open source.
-* **Community Contributions:** I contribute to **open-source automation projects** and enjoy working with teams to push boundaries in tech.
-
-### 🌱 Currently Learning:
-
-* Deepening expertise in **n8n**, **AI/LLM workflow integration**, and **cybersecurity**.
-* Exploring new ways to combine **front-end frameworks (HTMX, TailwindCSS)** with automation-first backends.
-
-### ⚡ Fun Fact:
-
-Beyond coding, I enjoy exploring **IoT** and experimenting with connected devices—automation is my passion, whether in software or hardware.
-
----
-
-**Let’s Automate & Build Something Amazing Together! 🚀**
-
-If you’d like to collaborate, need help with automation, or just want to say hi, you can reach me via **[email](mailto:electro.electra@gmail.com)** or connect with me on [GitHub](https://github.com/AR-92).
+- 📧 Email: [electro.electra@gmail.com](mailto:electro.electra@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/ahmed-n8n](https://linkedin.com/in/ahmed-n8n/)
+- 🐱 GitHub: [AR-92](https://github.com/AR-92)
